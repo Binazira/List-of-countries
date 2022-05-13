@@ -6,6 +6,7 @@ h2 {
 .table {
   background: navy; /* Цвет фона таблицы */
   color: white; /* Цвет текста */
+  margin: auto;
 }
 td {
   background: gray; /* Цвет фона ячеек */
